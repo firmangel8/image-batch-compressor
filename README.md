@@ -1,5 +1,5 @@
 # image-batch-compressor
-Utility to compress batch image. Support with folder custom destination and dynamic (widht, height) images.
+Utility to batch processing of image compression. Support with folder custom destination and dynamic size (widht, height) images.
 
 # Feature
 - Able to compress batch image from default directory input
