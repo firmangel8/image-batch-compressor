@@ -17,7 +17,7 @@ Get help command and parameter usage for this repository
 ```
 
 # How to run (from default directory input)
-You can use predefined directory in this repository. Only move your files into directory "input", then run code below. Batch compress result will saved at "output" directory
+You can use predefined directory in this repository. Only move your files into directory "input", then run code below. Batch compress result will be saved at "output" directory
 ```bash
     python batch-compressor.py
 ```
