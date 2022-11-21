@@ -37,8 +37,8 @@ https://user-images.githubusercontent.com/19168382/203016264-007b74de-69ec-4d0a-
 
 
 # Parameters Descriptions
--i = assign parameter input directory
--o = assign parameter output directory
--ww = assign parameter custom width target for image output
--hh - assign parameter custom height target for image output
+- -i = assign parameter input directory
+- -o = assign parameter output directory
+- -ww = assign parameter custom width target for image output
+- -hh - assign parameter custom height target for image output
 
