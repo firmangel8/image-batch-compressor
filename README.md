@@ -3,7 +3,7 @@ Utility to batch processing of image compression. Support with folder custom des
 
 # Feature
 - Able to compress batch image from default directory input
-- Able to compress batch image drom custom directory input
+- Able to compress batch image from custom directory input
 - Able to compress images with spesific size width and height target
 
 # Environtment
